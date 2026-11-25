@@ -4,7 +4,7 @@ import React from 'react'
 const Subscriptions = () => {
   return (
     <View>
-      <Text>S</Text>
+      <Text>Subscriptions</Text>
     </View>
   )
 }
